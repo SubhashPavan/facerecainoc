@@ -1,2 +1,1 @@
-# facerecainoc
-Face Recognition using Python
+I dont give a f***
